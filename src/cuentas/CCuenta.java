@@ -2,7 +2,7 @@ package cuentas;
 
 public class CCuenta {
 
-
+    private int edad;
     private String nombre;
     private String cuenta;
     private double saldo;
